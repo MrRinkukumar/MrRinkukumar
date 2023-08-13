@@ -1,16 +1,310 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rinku kumar saini | Portfolio</title>
+    <link rel="stylesheet" href="./Portfilyo/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <a href="#">Rinku Kumar saini</a>
+      </div>
+      <ul class="menu">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#Skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#design">Design's</a></li>
+        <li>
+          <a href="mailto:rinkukumarsaini9799118495t@gmail.com" class="Contact"
+            >Contact Me</a
+          >
+        </li>
+      </ul>
+      <div class="toggle">
+        <i class="fas fa-bars"></i>
+      </div>
+    </nav>
+    <header id="home" class="home">
+      <div class="header-content">
+        <h1>Rinku kumar saini</h1>
+        <p>Welcome to my portfolio website!</p>
+        <a href="#" class="btn">View My Work</a>
+      </div>
+    </header>
 
-<!--
-**MrRinkukumar/MrRinkukumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <main>
+      <section id="about" class="#about">
+        <div class="container">
+          <h2>About Me</h2>
+          <div class="row">
+            <div class="col-md-6">
+              <img
+                src="https://ik.imagekit.io/qr58sbk0h/huntingbrother/admin_pics/WhatsApp_Image_2022-12-08_at_18.45.19.jpeg?updatedAt=1678516129601"
+                alt="Profile Picture"
+              />
+            </div>
+            <div class="col-md-6">
+              <p>
+                Hi, my name is Rinku kumar saini and I'm a freelance web
+                developer based in Jaipur City. I have over 2 years of
+                experience building websites and web applications for clients in
+                various industries. My skills include HTML, CSS, JavaScript,
+                React js,nodejs and mongodb.
+              </p>
+              <p>
+                When I'm not coding, I enjoy playing hand ball and traveling.
+                I'm always looking for new challenges and opportunities to learn
+                and grow as a developer.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="Skills" class="skills">
+        <h2>Skills</h2>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
+              alt="HTML5"
+            />
+            <h3>HTML5</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 90%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+              alt="CSS3"
+            />
+            <h3>CSS3</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 85%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
+              alt="JavaScript"
+            />
+            <h3>JavaScript</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 80%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+              alt="React"
+            />
+            <h3>React</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 75%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+              alt="tailwind Css"
+            />
+            <h3>tailwind Css</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 90%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+              alt="node.js"
+            />
+            <h3>node.js</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 70%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+              alt="mongodb"
+            />
+            <h3>mongodb</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 85%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+              alt="git"
+            />
+            <h3>git</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 85%</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__front">
+            <img
+              src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+              alt="github"
+            />
+            <h3>github</h3>
+          </div>
+          <div class="card__back">
+            <p>Proficiency: 85%</p>
+          </div>
+        </div>
+      </section>
 
-Here are some ideas to get you started:
+      <section id="design" class="design">
+        <div class="container">
+          <div class="section-heading text-center">
+            <h2>Project</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    src="https://ik.imagekit.io/qr58sbk0h/portfoliyo/huntingbrother.PNG?updatedAt=1678702201038"
+                    alt="Design 1"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>Project 1</h3>
+                  <a href="https://huntingbrother.com/"> Huntingbrother.com </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    src="https://ik.imagekit.io/qr58sbk0h/portfoliyo/huntingbrother_version_1.PNG?updatedAt=1678707875909"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>project 2</h3>
+                  <a href="https://rad-sherbet-704368.netlify.app/">
+                    Huntingbrother version 1
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    src="https://ik.imagekit.io/qr58sbk0h/portfoliyo/hbs.PNG?updatedAt=1678708135439"
+                    alt="Design 3"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>Project 3</h3>
+                  <a href="https://huntingbrother.netlify.app/">
+                    portfolio web
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <section id="design" class="design">
+        <div class="container">
+          <div class="section-heading text-center">
+            <h2>Design</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    src="https://ik.imagekit.io/qr58sbk0h/PAYMENT__1_.png?updatedAt=1678369692788"
+                    alt="Design 1"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>Design 1</h3>
+                  <p>payment gate way card.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    src="https://ik.imagekit.io/qr58sbk0h/WEB__1_.png?updatedAt=1678366866541"
+                    alt="Design 2"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>Design 2</h3>
+                  <p>Website development card.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="design-item">
+                <div class="design-image">
+                  <img
+                    width="60px"
+                    height="60px"
+                    src="https://ik.imagekit.io/qr58sbk0h/log-removebg-preview.png?updatedAt=1678426975517"
+                    alt="Design 3"
+                  />
+                </div>
+                <div class="design-info">
+                  <h3>Design 3</h3>
+                  <p>logo for huntingbrother</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer id="contact">
+      <div class="container">
+        <div class="row">
+          <a href="mailto:rinkukumarsaini9799118495t@gmail.com" class="Contact"
+            >Contact Me</a
+          >
+        </div>
+      </div>
+      <div class="footer">
+        &copy; 2023 Rinku kumar saini | Portfolio. All rights reserved.
+      </div>
+    </footer>
+
+    <script src="./Portfilyo/script.js"></script>
+    <script
+      src="https://kit.fontawesome.com/00c670d8aa.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
