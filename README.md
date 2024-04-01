@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rinku kumar saini</h1>
-<h3 align="center">a full-stack developer with a crazy mindset is to consistently challenge the status quo, embrace emerging technologies, and contribute my skills to create exceptional digital experiences. By pushing my boundaries and thinking outside the box, I am committed to reshaping the digital landscape and making a lasting impact on the world of software development.</h3>
+<h1 align="center">Hi 👋, I'm Rinku Kumar saini</h1>
+<h3 align="center"> A full-stack developer with a crazy mindset is to consistently challenge the status quo, embrace emerging technologies, and contribute my skills to create exceptional digital experiences. By pushing my boundaries and thinking outside the box, I am committed to reshaping the digital landscape and making a lasting impact on the world of software development.</h3>
+To che
 
-- 🔭 I’m currently working on [Huntingbrother](https://huntingbrother.com/)
+- To check out my first portfolio page that I have built in simple using HTML, CSS, Java-Script
+- [MrRinkuKumar](https://mrrinkukumar.github.io/MrRinkukumar/)
 
 - 🌱 I’m currently learning **React native , Android studio**
 
