@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rinku Kumar saini</h1>
 <h3 align="center"> A full-stack developer with a crazy mindset is to consistently challenge the status quo, embrace emerging technologies, and contribute my skills to create exceptional digital experiences. By pushing my boundaries and thinking outside the box, I am committed to reshaping the digital landscape and making a lasting impact on the world of software development.</h3>
-To che
+
 
 - To check out my first portfolio page that I have built in simple using HTML, CSS, Java-Script
-- [MrRinkuKumar](https://mrrinkukumar.github.io/MrRinkukumar/)
-
-- 🌱 I’m currently learning **React native , Android studio**
-
+ [MrRinkuKumar](https://mrrinkukumar.github.io/MrRinkukumar/)
+- These are other projects who i have developed in my learning stages
+- A simple front page.
+-  [Landing page example](https://mrrinkukumar.github.io/landig.github.io/#)
 - 👯 I’m looking to collaborate on [Huntingbrother](https://huntingbrother.com/)
 
 - 🤝 I’m looking for help with **Youtube Downloader**
